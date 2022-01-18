@@ -1,0 +1,16 @@
+.questionsCreate-container {
+  padding: 10px 50px;
+  /* display: flex;
+  flex-direction: column;
+  align-items: flex-start; */
+}
+
+.create-qn-form {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.qnCreate-form-element {
+  margin-bottom: 30px;
+}

@@ -1,0 +1,29 @@
+.challengePage-overlay {
+  text-align: left;
+  font-size: large;
+  padding: 20px 100px;
+}
+
+.subheading1 {
+  font-weight: 600;
+  color: teal;
+  padding: 10px 0px;
+}
+
+.subpara1 {
+  background-color: lightgray;
+  padding: 20px 10px;
+  margin-bottom: 10px;
+}
+
+.challengePage-heading {
+  display: flex;
+  flex-direction: row;
+
+  justify-content: space-between;
+  align-items: center;
+}
+
+.challenge-form {
+  width: 70%;
+}

@@ -1,0 +1,23 @@
+.lb-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100%;
+  height: 100%;
+  width: 100%;
+  align-items: center;
+}
+
+.lb-note {
+  color: red;
+}
+
+.lb-scores-wrap {
+  margin-top: 10px;
+  width: 70%;
+  background-color: white;
+  flex-grow: 1;
+  box-shadow: 4px 4px 20px 8px rgba(0, 0, 0, 0.25);
+  backdrop-filter: blur(10px);
+  padding: 30px 0px;
+  /* height: 30%; */
+}

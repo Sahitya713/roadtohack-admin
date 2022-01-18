@@ -1,0 +1,10 @@
+.groupAddCard-container {
+  margin-bottom: 30px;
+  width: 40%;
+  padding: 20px 100px;
+  border: 8px solid teal;
+
+  border-radius: 30px;
+
+  text-align: left;
+}

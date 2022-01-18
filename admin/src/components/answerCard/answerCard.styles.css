@@ -1,0 +1,20 @@
+.answerCard-container {
+  border: 3px solid green;
+  border-radius: 10px;
+  margin-bottom: 30px;
+  padding: 20px 80px;
+}
+
+.answerCard-option-img {
+  width: 500px;
+}
+
+.answerCard-option-container {
+  display: flex;
+}
+
+.answerCard-icon {
+  margin-left: 10px;
+  font-size: 20px;
+  cursor: pointer;
+}
